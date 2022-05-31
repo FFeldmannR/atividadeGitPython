@@ -1,0 +1,6 @@
+@startuml
+    class Main{
+        - atributo
+        + construtor(atributo)
+    }
+@enduml
